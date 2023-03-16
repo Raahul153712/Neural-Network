@@ -1,4 +1,4 @@
-# Neural-Network
+# Image Classification Neural-Network
 Multi-layered convolutional neural network.  Used Python 3.8, Pytorch, NumPy, and the Pycharm IDE.
 
 Long description: built a multi-layered convolutional neural network using the Pycharm IDE, Python, NumPy, and Pytorch. The network was
